@@ -6,8 +6,7 @@ comments: true
 categories: [Frontend, Introduction]
 ---
 
-# 跬步志
-## 跌跌撞撞、懵懵懂懂、走走想想、思思写写的前端小记
+# 目录
 
 **加粗**
 
