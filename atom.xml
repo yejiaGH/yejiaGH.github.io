@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[跬步志]]></title>
   <link href="http://yejiagh.github.io/atom.xml" rel="self"/>
   <link href="http://yejiagh.github.io/"/>
-  <updated>2016-06-26T01:17:25+08:00</updated>
+  <updated>2016-06-26T13:28:07+08:00</updated>
   <id>http://yejiagh.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[一只猫一条狗]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
+    <title type="html"><![CDATA[Octopress-setup]]></title>
+    <link href="http://yejiagh.github.io/blog/2016/06/26/octopress-setup/"/>
+    <updated>2016-06-26T01:33:54+08:00</updated>
+    <id>http://yejiagh.github.io/blog/2016/06/26/octopress-setup</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[跬步志]]></title>
     <link href="http://yejiagh.github.io/blog/2016/06/26/alicecoding/"/>
     <updated>2016-06-26T00:25:55+08:00</updated>
     <id>http://yejiagh.github.io/blog/2016/06/26/alicecoding</id>
-    <content type="html"><![CDATA[<h1>跬步志</h1>
-
-<h2>跌跌撞撞、懵懵懂懂、走走想想、思思写写的前端小记</h2>
+    <content type="html"><![CDATA[<h1>目录</h1>
 
 <p><strong>加粗</strong></p>
 
